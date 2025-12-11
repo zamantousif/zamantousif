@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a Robotics Software Engineer working on some cool stuff. I am passionate about developing software that is at the intersection of Robotics and Autonomous systems. I try to engage in open-source work in my spare time.
+I am passionate about developing software at the intersection of Robotics and Autonomous systems.
 
 <!--a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=zamantousif&include_orgs=true&show_icons=true&rank_icon=default&include_all_commits=false&theme=tokyonight" />
